@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "App para calcular qual combustível está mais compensando",
+    "githubUrl": "https://github.com/gabrielborc/gasolina_ou_etanol_ts"
   }
 }
