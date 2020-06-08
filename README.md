@@ -7,7 +7,7 @@ Aplicativo que compara qual o melhor custo benefico enter os combustiveos de eta
 
 ## Conteúdo
 
-- [Demo - Heroku](#demo)
+- [Demo](#demo)
 - [Instalação](#instalação)
 - [Modo de uso](#modo-de-uso)
 
