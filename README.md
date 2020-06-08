@@ -1,7 +1,7 @@
 # Gasolina ou Etanol 
 [Versão com TypeScript]
 
-Aplicativo que compara qual o melhor custo benefico enter os combustiveos de etanol e gasolina
+Aplicativo que compara qual o melhor custo entre os combustíveis de etanol e gasolina
 
 ![screenshot-app](./assets/screenshot.png)
 
